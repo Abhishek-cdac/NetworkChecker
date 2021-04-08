@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InAppBrowser</string>
+    <string name="data">Welcome! \n
+        Quick access to major websites:- \n
+        <a href="http://www.google.com">Google</a> \n
+        <a href="http://www.facebook.com">Facebook</a> \n
+    And you can follow tutorials on Java and android here <a href="http://www.javapapers.com">JavaPapers</a>  </string>
+</resources>
